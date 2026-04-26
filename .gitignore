@@ -1,0 +1,6 @@
+# CocoaPods
+Pods/
+
+# macOS
+.DS_Store
+**/.DS_Store
